@@ -23,7 +23,9 @@ Building a planar magnetic diaphragm speaker from scratch to explore acoustic de
 If you're interested in connecting, feel free to reach out!
 
 [Email Me](mailto:Oberoisavar@gmail.com)
+
 [My Linkedin](https://www.linkedin.com/in/savar-oberoi-b139421b6/)
+
 [My Instagtam](https://www.instagram.com/studio_ravas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ---
