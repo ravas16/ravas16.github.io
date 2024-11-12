@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hi, I'm **Savar Oberoi**, an Industrial Design student with a focus on Human Factors and Ergonomics.
+Hi, I'm **Savar Oberoi**, a 4th year Industrial Design student with a focus on Human Factors and Ergonomics.
 
 ---
 
@@ -22,7 +22,9 @@ Building a planar magnetic diaphragm speaker from scratch to explore acoustic de
 
 If you're interested in connecting, feel free to reach out!
 
-[Email Me](mailto:savar@example.com)
+[Email Me](mailto:Oberoisavar@gmail.com)
+[My Linkedin](https://www.linkedin.com/in/savar-oberoi-b139421b6/)
+[My Instagtam](https://www.instagram.com/studio_ravas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ---
 
